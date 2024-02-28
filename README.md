@@ -10,7 +10,7 @@ Simply open the program files in the Arduino IDE and upload them to the board to
 Ensure that the Arduino board is connected to the following components: DHT11 temperature and humidity sensor, MP3 player, LED strip, and 4-pin OLED display screen. <br />
 Please refer to the image below for the specific wiring connections:<br />
 
-![Wiring Method](https://github.com/fmkl-k/SilenceSculpture/raw/main/./image.png)
+![Wiring Method]([https://github.com/fmkl-k/SilenceSculpture/raw/main/./image.png](https://github.com/fmkl-k/SilenceSculpture/blob/main/%E7%94%B5%E8%B7%AF%E5%9B%BE%E5%9B%BE%E7%89%87.png)https://github.com/fmkl-k/SilenceSculpture/blob/main/%E7%94%B5%E8%B7%AF%E5%9B%BE%E5%9B%BE%E7%89%87.png)
 
 
 
